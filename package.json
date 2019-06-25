@@ -1,6 +1,6 @@
 {
-  "name": "react-native-sensor-manager",
-  "version": "0.1.10",
+  "name": "@naturalclar/react-native-sensor-manager",
+  "version": "0.2.0",
   "description": "A react-native module that allows you to use the accelerometer, gyroscope and magnetometer and Android devices\"",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kprimice/react-native-sensor-manager.git"
+    "url": "git+https://github.com/Naturalclar/react-native-sensor-manager.git"
   },
   "keywords": [
     "react-native",
@@ -22,8 +22,11 @@
   ],
   "author": "Kevin Primicerio <kevin.primicerio@gmail.com>",
   "license": "ISC",
+  "contributors": [
+    "Jesse Katsumata <jesse.katsumata@gmail.com"
+  ],
   "bugs": {
-    "url": "https://github.com/kprimice/react-native-sensor-manager/issues"
+    "url": "https://github.com/Naturalclar/react-native-sensor-manager/issues"
   },
-  "homepage": "https://github.com/kprimice/react-native-sensor-manager#readme"
+  "homepage": "https://github.com/Naturalclar/react-native-sensor-manager#readme"
 }
